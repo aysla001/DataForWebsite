@@ -1,0 +1,65 @@
+origin,carrier,count
+Papa John-January,ME,3
+Papa John-January,NOT ME,5
+Dominos-January,ME,3
+Dominos-January,NOT ME,5
+Cicis-January,ME,8
+Cicis-January,NOT ME,0
+Azalea-January,ME,3
+Azalea-January,NOT ME,5
+Chichos-February,ME,3
+Chichos-February,NOT ME,5
+Little Cesar-February,ME,4
+Little Cesar-February,NOT ME,4
+Chichos-March,ME,3
+Chichos-March,NOT ME,5
+Pizza Hut-March,ME,4
+Pizza Hut-March,NOT ME,4
+Little Cesar-March,ME,8
+Little Cesar-March,NOT ME,0
+Dominos-March,ME,4
+Dominos-March,NOT ME,4
+Chichos-April,ME,3
+Chichos-April,NOT ME,5
+Costco-April,ME,3
+Costco-April,NOT ME,5
+Giordono-April,ME,3
+Giordono-April,NOT ME,5
+Costco-May,ME,3
+Costco-May,NOT ME,5
+Costco-June,ME,3
+Costco-June,NOT ME,5
+Little Cesar-June,ME,4
+Little Cesar-June,NOT ME,4
+Pizza Hut-July,ME,4
+Pizza Hut-July,NOT ME,4
+Papa Greek-July,ME,4
+Papa Greek-July,NOT ME,4
+Pizza (work 1)-July,ME,4
+Pizza (work 1)-July,NOT ME,4
+Pizza (work 2)-July,ME,4
+Pizza (work 2)-July,NOT ME,4
+Airport (Laguardia – Boston)-July,ME,4
+Airport (Laguardia – Boston)-July,NOT ME,4
+Wasserhund-August,ME,4
+Wasserhund-August,NOT ME,4
+Atlas-August,ME,3
+Atlas-August,NOT ME,5
+Papa John -1-September,ME,3
+Papa John -1-September,NOT ME,5
+Costco-September,ME,1
+Costco-September,NOT ME,7
+Papa John -2-September,ME,3
+Papa John -2-September,NOT ME,5
+Pie-O-Neer-September,ME,8
+Pie-O-Neer-September,NOT ME,0
+Little Cesar-September,ME,4
+Little Cesar-September,NOT ME,4
+Reginella-October,ME,4
+Reginella-October,NOT ME,4
+Pizza (work)-November,ME,4
+Pizza (work)-November,NOT ME,4
+Costco-December,ME,1
+Costco-December,NOT ME,7
+Little Cesar-December,ME,4
+Little Cesar-December,NOT ME,4
